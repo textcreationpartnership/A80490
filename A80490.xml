@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter sent out of Wiltshire, to a gentleman in London; wherein is laid open the dangerous designes of the clergy, in reference to the approaching Parliament. By a true friend to the publique interest, and to all peaceable men.</title>
+            <author>True friend to the publique interest, and to all peaceable men.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80490</idno>
+            <idno type="STC">Wing C6155</idno>
+            <idno type="STC">Thomason E809_18</idno>
+            <idno type="STC">ESTC R207575</idno>
+            <idno type="EEBO-CITATION">99866617</idno>
+            <idno type="PROQUEST">99866617</idno>
+            <idno type="VID">118894</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80490)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118894)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter sent out of Wiltshire, to a gentleman in London; wherein is laid open the dangerous designes of the clergy, in reference to the approaching Parliament. By a true friend to the publique interest, and to all peaceable men.</title>
+                  <author>True friend to the publique interest, and to all peaceable men.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Livewell-Chapman, at the Crowne in Popes-head-Alley.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: July 13. 1654.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 5.th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Clergy --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118894:1" rendition="simple:additions"/>
+            <p>THE COPY <hi>Of a</hi> LETTER Sent out of <hi>Wiltſhire,</hi> to a Gen<g ref="char:EOLhyphen"/>tleman in <hi>London;</hi> wherein is laid open the dangerous Deſignes of the CLERGY, <hi>In reference to the approaching</hi> PARLIAMENT.</p>
+            <p>
+               <hi>By a true Friend to the Publique Intereſt, and to all Peaceable Men.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Livewell Chapman,</hi> at the <hi>Crowne</hi> in <hi>Popeſ-head</hi>-Alley. 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:118894:2"/>
+            <pb n="1" facs="tcp:118894:2"/>
+            <head>The Copy of a Letter ſent out of <hi>Wiltſhire,</hi> to a Gentleman in <hi>London;</hi> Wherein is laid open the dangerous De<g ref="char:EOLhyphen"/>ſignes of the CLERGY, in reference to the approaching Parliament.</head>
+            <opener>
+               <salute>WORTHY SIR;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU will expect that I ſhould give you a true accompt, of paſſages relating to the chooſing of <hi>Members</hi> to ſit in <hi>Parliament</hi> for this County of <hi>Wilts;</hi> The truth is, the matter was moſt con<g ref="char:EOLhyphen"/>fuſedly and unworthily carried with<g ref="char:EOLhyphen"/>out any order or diſcretion; As for the <hi>Clergie</hi> they exceedingly beſtirred themſelves, making their par<g ref="char:EOLhyphen"/>ty as ſtrong as ever they could, that ſo they might promote and carry on their Scottiſh Intereſt.</p>
+            <p>The Ringleaders of this faction were Dr. <hi>Cham<g ref="char:EOLhyphen"/>bers,</hi> Mr. <hi>Byfield, Strickland,</hi> theſe with the reſt of their Brethren of the <hi>Aſſociation</hi> (and 'tis more then pro<g ref="char:EOLhyphen"/>bable that the ſame deſigne is carried on by the Cler<g ref="char:EOLhyphen"/>gy in other Counties) gathered together a great number of people, &amp; taught them their <hi>leſſon</hi> before hand to cry up only thoſe ten men named in their <hi>List,</hi> and to brand others, as namely <hi>Lievt. Gen. Lud<g ref="char:EOLhyphen"/>low, Col. Eyre, &amp;c.</hi> (who were nominated by appro<g ref="char:EOLhyphen"/>ved faithfull men in the County) with the names of <hi>Anabaptiſts, Levellers,</hi> to render them odious to the generality of the injudicious people, by theſe falſe
+<pb n="2" facs="tcp:118894:3"/> and malitious imputations. Thus honeſt <hi>Publique</hi> ſpirited men are moſt unworthily dealt withall, and trampled upon by a Time ſerving Generation.</p>
+            <p>
+               <hi>Sir,</hi> I am very confident that ſome hundreds gave their Voyces who were either Cavileers, or elſe of inconſiderable Eſtates, not worth 100. <hi>l.</hi> and there<g ref="char:EOLhyphen"/>fore uncapable of chooſing, by the Modell of the <hi>Eſtabliſhed Government.</hi>
+            </p>
+            <p>It was agreed on at length, that the ſeverall <hi>Liſts</hi> ſhould be called one by one, and ſo put to the <hi>Yea's and Noe's,</hi> without naming any other in competition with the former. But this order was violated by the Clergies party, by which means through the inſti<g ref="char:EOLhyphen"/>gation of this Scottiſh faction, Lievt. Gen. <hi>Ludlow</hi> was put by, to the great diſparagement of this Coun<g ref="char:EOLhyphen"/>try, where he hath been more ſerviceable to the true intereſt of the State, then all the men that are cho<g ref="char:EOLhyphen"/>ſen, put them all together, and the <hi>Parſons</hi> too: nay they were ſo far from giving their Voyces for this faithfull valiant ſelf-denying man, that the leading man among them, &amp; their chief Counſellour, whom I ſhall forbear to name, refuſed to appeare for the Lievt. Gen. intimating that he was not fit to ſit in the next <hi>Parl.</hi>
+            </p>
+            <p>Ye are ſo conſiderate <hi>Sir,</hi> I doubt it not, as to ob<g ref="char:EOLhyphen"/>ſerve that there is a deſigne generally carried on by the <hi>Clergie</hi> of this Nation, to bring us againe into <hi>E<g ref="char:EOLhyphen"/>gyptian bondage,</hi> to keep up and maintain the oppreſ<g ref="char:EOLhyphen"/>ſion of <hi>Tithes,</hi> and to ſet up themſelves and their <hi>Claſ<g ref="char:EOLhyphen"/>ſicall Diana</hi> by Civill Sanction; in order whereunto they have endeavoured to procure a conſiderable number of Members that may Vote in the next Parl. for an <hi>Aſſembly</hi> or <hi>Convention of Miniſters,</hi> to make <hi>Cannons</hi> for inthralling the conſciences of good men,
+<pb n="3" facs="tcp:118894:3"/> where <hi>Adoniram</hi> may be one of the Scribes, who in<g ref="char:EOLhyphen"/>deed was an <hi>exceeding buſie man,</hi> and acted like a <hi>Pha<g ref="char:EOLhyphen"/>riſee</hi> at the Election, his carriage not becoming a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> of Chriſt. But why ſhould we wonder at him and others, their buſie intermedling, and more then ordinary diligence and activity? alas <hi>poor men,</hi> they are afraid they ſhall looſe their fat <hi>Parſonages,</hi> worth 3 or 400. <hi>l. per ann.</hi> a peece. Theſe Politique State <hi>Parſons,</hi> neglected the Preaching of their Lecture <hi>at Sarum,</hi> that they might bawle and cry with open mouth, <hi>No Ludlow, no Ludlow,</hi> till they were even hoarſe again; they choſe rather to ſpend their <hi>breath</hi> in decrying honeſt men, then in preaching the <hi>Goſ<g ref="char:EOLhyphen"/>pel of the Lord Jeſus.</hi> Nor is it ſufficient for theſe men that they have preſent encouragement, equall with or above other men more deſerving, unles they may alſo impoſe upon, &amp; domineer over their brethren, they will not be contented. I doe plainly ſee they will rather joyn with the vileſt men, then with ſuch as croſſe their carnall intereſt, and diſſent from them, though never ſo godly.</p>
+            <p>What ſhall I ſay of the impudency of theſe men? one <hi>Stone</hi> a Factor for them, and Vaſſall to them, went up and down at the Election like a <hi>madd man,</hi> crying out, <hi>Now friends appear for the Church of God, or never;</hi> poore man, can he put no difference be<g ref="char:EOLhyphen"/>tween appearing for the <hi>luſts of men,</hi> and the <hi>Church of Chriſt?</hi> between the <hi>Claſſicall <g ref="char:V">Ʋ</g>ſurpations</hi> of the ſelf-ſeeking <hi>Parſons,</hi> and the truth and Goſpel of Chriſt?</p>
+            <p>
+               <hi>Sir,</hi> By this dayes work ye may judge of the iſſue and fruit of the Miniſters <hi>Aſſociation</hi> in this County, which may rather be called a <hi>ſubtill Combination,</hi> then a Chriſtian ſpirituall <hi>Communion</hi> as they manage it;
+<pb n="4" facs="tcp:118894:4"/> you will hear of the like proceedings in other Coun<g ref="char:EOLhyphen"/>ties, eſpecially where this <hi>Aſſociation</hi> is carried on, the ſame being deviſed as a ſhelter upon a <hi>politique ac<g ref="char:EOLhyphen"/>compt,</hi> againſt an approaching ſtorme.</p>
+            <p>The Lord direct his <hi>Highneſſe</hi> in this Juncture of Affaires, and make him truly ſenſible of the danger<g ref="char:EOLhyphen"/>ous plots of theſe men that would thus rigidly im<g ref="char:EOLhyphen"/>poſe upon their Brethren.</p>
+            <p>There will be I am confident a neceſſity of taking a ſtrict review of theſe Elections, having been carri<g ref="char:EOLhyphen"/>ed on in ſuch a <hi>turbulent confuſed manner,</hi> by the vio<g ref="char:EOLhyphen"/>lent motions of the <hi>corrupt Clergy,</hi> all joyning toge<g ref="char:EOLhyphen"/>ther to uphold their <hi>Diana.</hi>
+            </p>
+            <p>But as it was with the <hi>Prelates,</hi> in entring their <hi>Pro<g ref="char:EOLhyphen"/>testation</hi> in the former <hi>Parliament,</hi> they prepared a Rodd to whipp themſelves with, and digged a pit wherein they themſelves did fall: ſo will theſe men doe, that which they have deſigned for upholding their corrupt Intereſt, will be the ruine thereof. His Highneſſe and his Army cannot but call to mind the late <hi>broyles</hi> both in <hi>this Nation, and Scotland,</hi> cauſed by this ſort of men, who will not ceaſe plotting and combining till they <hi>imbroyle</hi> the Nations againe in blood, if the Lord in mercy prevent not.</p>
+            <p>
+               <hi>Sir,</hi> I had the ſight of a Letter writ by one <hi>Burgeſs</hi> a <hi>Parſon</hi> of the Confedracy, ſent to one of his Bre<g ref="char:EOLhyphen"/>thren in this County: his words are as followeth. Sir, <hi>I hope you will be active to ingage all that ever you can to appear with us for ſuch men as will be valiant for the truth, and be ready to meet</hi> Dr. Chambers, Mr. By<g ref="char:EOLhyphen"/>field, Strickland, Ince, <hi>&amp;c. And that we may not be divided, there ſhall then be a Liſt of the ten to be choſen, given to every one that appeareth for the beſt intereſt. Let us not be acceſſary to our owne ruine, and give occaſion to
+<pb n="5" facs="tcp:118894:4"/> the ſucceeding Generation to curſe us, by not putting forth our intereſt to the utmoſt, for chooſing right men. If we remember the laſt men that met at</hi> Weſtminſt: <hi>what they were Voting for, and withall how the</hi> Monſter <hi>of their ma<g ref="char:EOLhyphen"/>lice was even brought to the birth, it will make us actiue for a better Choyce.</hi>
+            </p>
+            <p>Beſides what this <hi>Parſon</hi> writ in his Letter, he told the party before one Mr. <hi>Dyer,</hi> that there was a <hi>Com<g ref="char:EOLhyphen"/>miſſion</hi> coming out for ejecting <hi>Miniſters,</hi> and that he would be in danger of being outed his <hi>Living,</hi> that ſhould not appear with the Miniſters at the <hi>Election.</hi>
+            </p>
+            <p>Thus you ſee <hi>Sir,</hi> they make lies their refuge, and have recourſe to Carnall weapons, the <hi>Inſtruments of a fooliſh Shepheard,</hi> as his <hi>Highneſſe</hi> expreſſeth it in one of his Letters to the <hi>Clergy of Scotland.</hi>
+            </p>
+            <p>Well, though theſe rigid fooliſh men will not ſee the hand of God which is gone out againſt them, but goe on in their vain wayes of oppoſition, notwith<g ref="char:EOLhyphen"/>ſtanding they have been ſo often diſappointed yet the work of the Lord ſhall proſper, and God will ere long ſeparate his faithfull Miniſters and Servants, from this corrupt <hi>ſelfe ſeeking Generation</hi> of men, who will not ceaſe from buſie intermeddling in ſtate mat<g ref="char:EOLhyphen"/>ters and raiſing Factions, till the Maintenance for the Miniſtry be brought into <hi>one Treaſury,</hi> and equally divided. In <hi>Holland</hi> (you know) where the Magiſtrate takes a ſtricter courſe, the Miniſters dare not buſie themſelves thus in State affaires. God forgive theſe men, for they cauſe the Miniſtry of Chriſt to be evil ſpoken of, and to ſtink in the noſtrills of people, who doe but deride them as a company of vain buſibodys.</p>
+            <p>
+               <hi>Sir,</hi> It cannot but grieve and afflict the Spirits of honeſt men, to ſee a company of time-ſerving <hi>Cava<g ref="char:EOLhyphen"/>leers,</hi> and corrupt <hi>Parſons</hi> carry on things as they do,
+<pb n="6" facs="tcp:118894:5"/> without controll; and in the mean while ſuch men as are moſt faithfull to the <hi>Publique Intereſt,</hi> for which ſo much Blood hath been ſpilt, and Treaſure ſpent, ſuch as have been <hi>valiant</hi> in the field, and ventured their lives in the high places for the <hi>liberties</hi> of the people, ſuch as have all along in the greateſt <hi>Revo<g ref="char:EOLhyphen"/>lutions and dangers</hi> (when this Generation of men durſt not ſhow their faces unles it was at <hi>Oxon,</hi> where ſome of them ſate and acted) appeared in their <hi>pur<g ref="char:EOLhyphen"/>ſes and perſons</hi> for the true <hi>intereſt</hi> of the Nation, ſuch as have poured out floods of <hi>Tears and Prayers</hi> for the cauſe of <hi>Chriſt,</hi> that theſe honeſt men ſhould be thus ſlighted, undermined, ſcorned, diſcountenan<g ref="char:EOLhyphen"/>ced, and a company of unworthy <hi>Time-ſerving</hi> men preferred and advanced, ſuch as never did the <hi>State</hi> any faithful ſervice, ſuch as doe unworthily &amp; vain-gloriouſly in them own perſons, hunt after <hi>worldly honour, and popular applauſe,</hi> and doe even hate and ab<g ref="char:EOLhyphen"/>hor the poor deſpiſed Saints. Certainly though good men ſhould be ſilent &amp; ſit ſtill, yet the Lord himſelf will ſhortly avenge the cauſe of his people, &amp; bring deliverance in a way w<hi rend="sup">ch</hi> we think not of, which wil make the ears of ſome to <hi>tingle,</hi> and their hearts to <hi>ake;</hi> we have yet the Chriſtian weapons of Faith, Hope, Patience, Prayers and tears remaining with us, which will in due time prevaile againſt this cor<g ref="char:EOLhyphen"/>rupt party, and the leſſe there is of man the more will God be ſeen. <hi>Let us ſit ſtill and ſee the Salvation of the Lord.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>July 13. 1654.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
